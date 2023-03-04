@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: ExampleItem
   m_EditorClassIdentifier: 
   Name: Example Item
-  Description: A example item used in the template scene
-  Icon: {fileID: 21300000, guid: f14dc59e763526f4e9f4324e2cecbcd7, type: 3}
+  Description: The happy rat crawled into my pocket...
+  Icon: {fileID: 21300000, guid: 2e0427fcf5459604b8923f293b094e22, type: 3}
