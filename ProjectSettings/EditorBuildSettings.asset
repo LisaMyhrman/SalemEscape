@@ -9,20 +9,20 @@ EditorBuildSettings:
     path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/StartUp.unity
     guid: ea2351c6898f4697b842183c18146d5b
   - enabled: 1
-    path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/DefaultCellScene.unity
-    guid: 41f1e5c45489479699a0ab8289c57bf8
+    path: Assets/Scenes/LisaTest.unity
+    guid: 17754123e4b22c847ba78d870b3ce6b3
   - enabled: 1
     path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/StartMenuScene.unity
     guid: cceb223064234a25bfa7c7fe9f5116cb
+  - enabled: 1
+    path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/DefaultCellScene.unity
+    guid: 41f1e5c45489479699a0ab8289c57bf8
   - enabled: 0
     path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/SceneTemplates/GameSceneTemplate.unity
     guid: 3f332d8936e14d2281d347f8072c519f
   - enabled: 0
     path: Assets/Scenes/KimTest.unity
     guid: 642646cff8af9924bb004e16b14cf96f
-  - enabled: 0
-    path: Assets/Scenes/LisaTest.unity
-    guid: 17754123e4b22c847ba78d870b3ce6b3
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
