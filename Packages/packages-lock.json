@@ -205,6 +205,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "se.gamehabitat.moxiejam.storyframework": {
+      "version": "https://github.com/gamehabitat/moxiejam_storyframework.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+      },
+      "hash": "6e3c79adbec0a5bf5fcdfcf0d424291b4e06d1a5"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
