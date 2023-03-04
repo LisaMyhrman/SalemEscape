@@ -753,7 +753,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   serializedGuid: 6540f82497948d48b07e8049cd66b585
-  activeOnStart: 1
+  activeOnStart: 0
   customIdentifier: 
 --- !u!212 &950042913
 SpriteRenderer:
@@ -1478,9 +1478,41 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 8fc424699d25486ab17098ec454f926f, type: 2}
     - target: {fileID: 6120856597079326413, guid: 076067cba4f9b98438c7f52d136f4080, type: 3}
+      propertyPath: onItemAccepted.m_PersistentCalls.m_Calls.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6120856597079326413, guid: 076067cba4f9b98438c7f52d136f4080, type: 3}
+      propertyPath: onItemAccepted.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6120856597079326413, guid: 076067cba4f9b98438c7f52d136f4080, type: 3}
       propertyPath: onItemAccepted.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1573027153}
+    - target: {fileID: 6120856597079326413, guid: 076067cba4f9b98438c7f52d136f4080, type: 3}
+      propertyPath: onItemAccepted.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 950042911}
+    - target: {fileID: 6120856597079326413, guid: 076067cba4f9b98438c7f52d136f4080, type: 3}
+      propertyPath: onItemAccepted.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6120856597079326413, guid: 076067cba4f9b98438c7f52d136f4080, type: 3}
+      propertyPath: onItemAccepted.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: PickUp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6120856597079326413, guid: 076067cba4f9b98438c7f52d136f4080, type: 3}
+      propertyPath: onItemAccepted.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: StoryFramework.InteractableItem, se.gamehabitat.moxiejam.storyframework
+      objectReference: {fileID: 0}
+    - target: {fileID: 6120856597079326413, guid: 076067cba4f9b98438c7f52d136f4080, type: 3}
+      propertyPath: onItemAccepted.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_BoolArgument
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6120856597079326413, guid: 076067cba4f9b98438c7f52d136f4080, type: 3}
+      propertyPath: onItemAccepted.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 6120856597079326417, guid: 076067cba4f9b98438c7f52d136f4080, type: 3}
       propertyPath: m_Size.x
       value: 5.4111557
