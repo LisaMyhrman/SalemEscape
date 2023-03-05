@@ -686,8 +686,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firstInGameScene:
-    sceneGUID: 41f1e5c45489479699a0ab8289c57bf8
-    sceneName: DefaultCellScene
+    sceneGUID: 8b6d2d637219e274a881d543e2267416
+    sceneName: GuardCellScene
   inGameUiPrefab: {fileID: 0}
 --- !u!1 &956823748
 GameObject:

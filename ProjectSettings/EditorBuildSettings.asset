@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/StartUp.unity
     guid: ea2351c6898f4697b842183c18146d5b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LisaTest.unity
     guid: 17754123e4b22c847ba78d870b3ce6b3
   - enabled: 1
     path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/StartMenuScene.unity
     guid: cceb223064234a25bfa7c7fe9f5116cb
+  - enabled: 1
+    path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/GuardCellScene.unity
+    guid: 8b6d2d637219e274a881d543e2267416
   - enabled: 1
     path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/DefaultCellScene.unity
     guid: 41f1e5c45489479699a0ab8289c57bf8
@@ -26,4 +29,22 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity
+    guid: 16177da2e3254cee91944756d5f8ddd3
+  - enabled: 1
+    path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/Win.unity
+    guid: 86617ff44714b7a49a54897b01be2e91
+  - enabled: 1
+    path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/KeyWin.unity
+    guid: f55127731c9c2874c8c1e1ee8bbbf455
+  - enabled: 1
+    path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/CellMateScene.unity
+    guid: 3d52efcc893406b4bbd3b7585066d52e
+  - enabled: 1
+    path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/SpoonWin.unity
+    guid: 5309b923699938a4cb860b57bd796a08
+  - enabled: 1
+    path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/DeathScene.unity
+    guid: cb1ddc42e66e8a54783670b5daa68c45
   m_configObjects: {}
