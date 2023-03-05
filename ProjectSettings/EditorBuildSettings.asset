@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/GuardScene.unity
+    guid: 6204621a15aeaa1478ca8a70354820b4
   m_configObjects: {}
