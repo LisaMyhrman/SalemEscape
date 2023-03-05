@@ -32,7 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity
     guid: 16177da2e3254cee91944756d5f8ddd3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/MoxieJam story framework/2.0.2/StoryFramework Assets/Scenes/Win.unity
     guid: 86617ff44714b7a49a54897b01be2e91
   - enabled: 1
